@@ -47,6 +47,7 @@
     width: 700;
     float: left;
     padding-left: 100;
+    font-size: 30;
 }
 .content{
     width: 100%;
@@ -66,10 +67,10 @@
 }
 .pics{
     padding-left: 100;
-    padding-top: 50;
     float: right;
     padding-right: 20;
     margin-right: 50;
+    vertical-align: middle;
 }
 .and{
     color: dimgray;
