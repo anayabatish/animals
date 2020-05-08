@@ -91,3 +91,49 @@ head,html{
     padding:0;
     margin:0;
 }
+
+
+
+
+/* mascot stuff*/
+
+.mascot{
+    width: 210;
+    padding: 20;
+    margin-left: 50;
+    font-size: 20;
+    background-color: aliceblue;
+    border-radius: 30px;
+}
+
+
+.mback{
+    height: 80%;
+}
+.mtitle{
+    font-family: fantasy;
+    padding-top: 70;
+    padding-left: 70;
+    font-size: 45;
+}
+
+.topy{
+    font-family: cursive;
+    font-size: 40;
+    text-align: center;
+}
+.top{
+    align-content: center;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
